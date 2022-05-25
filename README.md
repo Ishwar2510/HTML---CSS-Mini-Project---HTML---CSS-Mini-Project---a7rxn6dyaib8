@@ -1,1 +1,10 @@
-# html-css-project-boilerplate
+# Resume
+First Resume
+https://github.com/Ishwar2510/Resume
+Created as my first project.
+
+This project is a static website.
+Displaying my resume.
+it is a responsive site , i.e it is adaptable to different window sizes
+
+
