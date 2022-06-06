@@ -1,6 +1,6 @@
 # Resume
 First Resume
-https://github.com/Ishwar2510/Resume
+
 Created as my first project.
 
 This project is a static website.
