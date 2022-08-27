@@ -15,7 +15,7 @@
    
 }
 .left-section{
-    background-color: teal;
+    background-color:#2B2741;
 }
 .right-section{
     background-color:white;
@@ -178,7 +178,8 @@ a{
    
     
 }
-.project-details li, .mag-skill li{
+
+.project-details li, .mag-skill li , .hobbie li{
     list-style:circle;
     line-height: 30px;
 }
