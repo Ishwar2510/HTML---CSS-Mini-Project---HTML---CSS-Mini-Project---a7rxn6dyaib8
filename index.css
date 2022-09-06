@@ -15,7 +15,7 @@
    
 }
 .left-section{
-    background-color:#2B2741;
+    background-color:#554b8e;
 }
 .right-section{
     background-color:white;
@@ -83,10 +83,13 @@ a{
     right: 4px;
     top:7px;
 }
-
+.skill-title{
+    font-size:0.75rem;
+    text-decoration: underline;
+}
 .skills{
   
-    font-size:0.75rem;
+   font-size:0.75rem;
    text-align: center;
    text-transform: uppercase;
    padding: 1rem 0.5rem;
@@ -124,17 +127,17 @@ a{
 #js{
     width:60%;
 }#react{
-    width:50%;
+    width:60%;
 }
 #njs{
-    width:48%;
+    width:20%;
 }
 #mongo{
-    width:45%;
+    width:20%;
 }
-#sql{
+/* #sql{
     width:42%;
-}
+} */
 
 /* everyting fine up till here */
 .right-main-content{
